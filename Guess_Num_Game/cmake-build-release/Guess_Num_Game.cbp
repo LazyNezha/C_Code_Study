@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Guess_Num_Game"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Guess_Num_Game">
+				<Option output="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Guess_Num_Game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 Guess_Num_Game"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Guess_Num_Game/fast">
+				<Option output="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Guess_Num_Game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 Guess_Num_Game/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/main.c">
+			<Option target="Guess_Num_Game"/>
+		</Unit>
+		<Unit filename="/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

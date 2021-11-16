@@ -1,0 +1,3 @@
+/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug/CMakeFiles/Guess_Num_Game.dir
