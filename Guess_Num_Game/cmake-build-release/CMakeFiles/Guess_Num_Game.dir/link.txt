@@ -1,1 +1,0 @@
-/usr/bin/clang -O3 -DNDEBUG   CMakeFiles/Guess_Num_Game.dir/main.c.o  -o Guess_Num_Game 
