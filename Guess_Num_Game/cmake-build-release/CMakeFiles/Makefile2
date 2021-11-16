@@ -47,7 +47,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/Guess_Num_Game.dir/clean
 CMakeFiles/Guess_Num_Game.dir/all:
 	$(MAKE) -f CMakeFiles/Guess_Num_Game.dir/build.make CMakeFiles/Guess_Num_Game.dir/depend
 	$(MAKE) -f CMakeFiles/Guess_Num_Game.dir/build.make CMakeFiles/Guess_Num_Game.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Guess_Num_Game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/CMakeFiles --progress-num=1,2 "Built target Guess_Num_Game"
 .PHONY : CMakeFiles/Guess_Num_Game.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Guess_Num_Game.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Guess_Num_Game.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/CMakeFiles 0
 .PHONY : CMakeFiles/Guess_Num_Game.dir/rule
 
 # Convenience name for target.

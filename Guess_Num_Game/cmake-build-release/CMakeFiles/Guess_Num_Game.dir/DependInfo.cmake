@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/main.c" "/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug/CMakeFiles/Guess_Num_Game.dir/main.c.o"
+  "/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/main.c" "/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release/CMakeFiles/Guess_Num_Game.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "Clang")
 

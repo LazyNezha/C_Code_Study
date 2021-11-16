@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-debug")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/mnt/d/Ironman_Projects/C_Code_Study/Guess_Num_Game/cmake-build-release")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
