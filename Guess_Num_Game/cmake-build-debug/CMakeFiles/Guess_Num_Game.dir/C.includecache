@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/I AM IRONMAN/Ironman_Projects/C_Code_Study/Guess_Num_Game/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
