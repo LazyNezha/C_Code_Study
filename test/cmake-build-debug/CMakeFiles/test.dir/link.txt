@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test.dir/main.c.o  -o test   -L"/mnt/d/I AM IRONMAN/Ironman_Projects/test/lib"  -Wl,-rpath,"/mnt/d/I AM IRONMAN/Ironman_Projects/test/lib" -Wl,-Bstatic -lAdd -Wl,-Bdynamic 
