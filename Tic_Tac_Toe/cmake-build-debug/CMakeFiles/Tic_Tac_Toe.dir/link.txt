@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Tic_Tac_Toe.dir/main.c.o CMakeFiles/Tic_Tac_Toe.dir/game.c.o  -o Tic_Tac_Toe 
