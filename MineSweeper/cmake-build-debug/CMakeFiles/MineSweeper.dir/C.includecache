@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/I AM IRONMAN/Ironman_Projects/C_Code_Study/MineSweeper/game.c
+game.h
+/mnt/d/I AM IRONMAN/Ironman_Projects/C_Code_Study/MineSweeper/game.h
+
+/mnt/d/I AM IRONMAN/Ironman_Projects/C_Code_Study/MineSweeper/game.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/mnt/d/I AM IRONMAN/Ironman_Projects/C_Code_Study/MineSweeper/main.c
+game.h
+/mnt/d/I AM IRONMAN/Ironman_Projects/C_Code_Study/MineSweeper/game.h
+
